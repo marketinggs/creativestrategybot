@@ -1,0 +1,8 @@
+{
+  "name": "Creative Strategy Bot",
+  "description": "Generate video ad scripts or static ad creatives. Use reference content or generate fresh ideas for any Workshop/IP. AI-powered variations and analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}

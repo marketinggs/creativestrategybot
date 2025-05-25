@@ -1,0 +1,136 @@
+{
+  "id": "Marketing Mastermind",
+  "title": "AI Marketing Mastermind",
+  "fullDescription": "Dive deep into the world of AI-driven marketing with this comprehensive mastermind. Learn to build your own AI assistants, automate tedious tasks, create stunning visuals, and develop a future-proof marketing roadmap for 2025. This workshop is designed for marketers at all levels, from beginners to seasoned leaders, looking to leverage the power of AI.",
+  "price": "₹99 ₹1,999",
+  "discountDeadline": "24 May 2025",
+  "benefits": [
+    "Your Personal AI MARKETING ASSISTANT that works 24/7",
+    "The NO-CODE AUTOMATION BLUEPRINT that saves 15+ hours/week",
+    "The VISUAL MARKETING MASTERY System to create stunning images and videos",
+    "The ONE-PERSON ARMY Marketing Blueprint",
+    "The AI TOOL BLACK BOOK (35+ cutting-edge tools)",
+    "The PERFECT PROMPT FORMULA for guaranteed results",
+    "The SET & FORGET Lead Generation System",
+    "Your Custom 2025 AI MARKETING ROADMAP"
+  ],
+  "targetAudience": [
+    "0-2 Yrs: Beginners – Leapfrog past veterans by mastering AI early",
+    "2-7 Yrs: Mid-Career – Combine your experience with AI skills to become irreplaceable",
+    "7-12 Yrs: Senior Marketers – Lead the AI revolution instead of being left behind",
+    "12+ Yrs: Marketing Leaders – Make confident AI decisions that keep your company ahead"
+  ],
+  "learningObjectives": [
+    "Understand and apply advanced AI marketing techniques and frameworks.",
+    "Master prompt engineering for effective AI-driven content creation.",
+    "Develop custom GPTs and AI marketing assistants tailored to specific brand needs.",
+    "Implement no-code automation solutions using tools like Make.com to streamline workflows.",
+    "Create high-quality, brand-consistent visual content using AI tools like Krea AI.",
+    "Formulate a strategic AI marketing roadmap for long-term success."
+  ],
+  "modules": [
+    {
+      "title": "Module 1: Advanced AI Marketing Techniques",
+      "content": "Covers the AI Marketing Framework, master prompting techniques, choosing AI models, GooseAI, AI app development tools like Bolt.new, and the MCP (Master Model, Context, Persona) strategic prompting framework."
+    },
+    {
+      "title": "Module 2: VISUAL AI MASTERY",
+      "content": "Focuses on the AI Visual Marketing Blueprint, visual storytelling, brand consistency, Krea AI masterclass, creating professional images, perfect image prompt structure, and image-to-video conversion."
+    },
+    {
+      "title": "Module 3: BUILDING YOUR AI MARKETING ASSISTANT",
+      "content": "Details custom GPT development, GPT architecture, training models with brand voice, advanced prompting, AI marketing deployment, and memory/context enhancement for GPTs."
+    },
+    {
+      "title": "Module 4: AI Automations",
+      "content": "Explores social media automation with Make.com, including triggers, connecting multiple apps (Instagram, Twitter, LinkedIn), integrating ChatGPT API for smart replies, and a hands-on activity to build an AI workflow."
+    }
+  ],
+  "sessions": [
+    {
+      "session": "Advanced AI Marketing Techniques",
+      "time": "10 AM - 2 PM IST",
+      "day": "Day 1",
+      "description": [
+        "The AI Marketing Framework",
+        "Master Prompting Techniques for AI",
+        "Choosing the Right AI Models for Your Needs",
+        "Unlock the Power of GooseAI",
+        "AI App Development Tools",
+        "Build Production-Ready Apps with Bolt.new",
+        "Strategic Prompting Framework – MCP: Master Model, Context, and Persona Alignment"
+      ]
+    },
+    {
+      "session": "VISUAL AI MASTERY",
+      "time": "3 PM - 5 PM IST",
+      "day": "Day 1",
+      "description": [
+        "AI Visual Marketing Blueprint",
+        "Visual Storytelling Fundamentals",
+        "Creating Brand-Consistent Visuals",
+        "Krea AI Masterclass – Complete Feature Deep-Dive",
+        "Creating Professional-Quality Images",
+        "The Perfect Image Prompt Structure",
+        "Visual Content Ecosystem – Image-to-Video Conversion Techniques"
+      ]
+    },
+    {
+      "session": "BUILDING YOUR AI MARKETING ASSISTANT",
+      "time": "10 AM - 2 PM IST",
+      "day": "Day 2",
+      "description": [
+        "Custom GPT Development",
+        "GPT Architecture Fundamentals",
+        "Training Models With Your Brand Voice",
+        "Advanced Prompting Techniques",
+        "AI Marketing Deployment – Integrating GPTs Into Workflows",
+        "Memory & Context Enhancement"
+      ]
+    },
+    {
+      "session": "AI Automations",
+      "time": "3 PM - 5 PM IST",
+      "day": "Day 2",
+      "description": [
+        "Master Social Media Automation with Make.com",
+        "Introduction to Make.com – No-Code Automation",
+        "Trigger Actions – Automate Tasks Based on Events (New Followers, DMs, etc.)",
+        "Connect Multiple Apps – Instagram, Twitter, LinkedIn & more",
+        "Integrate ChatGPT API – Auto-Generate Smart Replies, Captions & Content",
+        "HANDS-ON ACTIVITY – Build Your First AI Workflow (Real Social Media Automations)"
+      ]
+    }
+  ],
+  "mentors": [
+    "Priyanku Sarmah (Visual Art Director)",
+    "Raghuveer Nishtala (Brand Marketer)",
+    "Manish",
+    "K V S Dileep (Head of AI Initiatives)"
+  ],
+  "guarantee": "Join with the Early Bird Discount—massive value guaranteed!",
+  "certificateInfo": "You will receive a certificate to validate your learnings and show practical, hands-on experience leveraging AI for real-world marketing challenges.",
+  "links": [
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc2.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc5.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc7.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc4.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc3.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc6.svg",
+    "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc1.svg"
+  ],
+  "testimonials": [
+    "Rated 4.7/5 by 1000+ Learners"
+  ],
+  "registrationLink": "https://d31bwppm8yl9g2.cloudfront.net/learner/gs/gc2.svg",
+  "faqs": [
+    {
+      "question": "Is this workshop suitable for complete beginners in AI?",
+      "answer": "Yes, while we cover advanced topics, the initial modules are designed to bring beginners up to speed. The hands-on activities will help solidify understanding."
+    },
+    {
+      "question": "What tools will I get hands-on experience with?",
+      "answer": "You'll work with Make.com for automation, Krea AI for visuals, and learn to build Custom GPTs. We'll also discuss over 35 other cutting-edge AI tools."
+    }
+  ]
+}

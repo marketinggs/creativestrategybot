@@ -1,0 +1,63 @@
+{
+  "title": "AI Business Mastery Blueprint",
+  "price": "₹499 ₹1,999",
+  "discountDeadline": "24 May 2025",
+  "benefits": [
+    "16-Hour Blueprint to Automate Work, Build Smart Assistants & Master 20+ Essential AI Tools",
+    "Unlock growth, efficiency, and innovation across teams",
+    "Learn from the Top 1% in AI"
+  ],
+  "targetAudience": [
+    "Entrepreneurs & Founders",
+    "Senior Managers & Leaders",
+    "Consultants & Specialists",
+    "Tech-Curious Professionals"
+  ],
+  "sessions": [
+    {
+      "session": "Generative AI Foundations & Business Applications",
+      "time": "10 AM – 1:45 PM IST",
+      "description": [
+        "What is LLM?, Neural networks, AI vs ML, supervised & unsupervised learning",
+        "Fundamentals of NLP, transformers, and correlation with LLMs",
+        "How LLMs work: prompt engineering and OpenRouter capabilities",
+        "Case studies: HR, marketing, operations, and finance",
+        "Stimulate AI outputs using prompts vs traditional coding"
+      ]
+    },
+    {
+      "session": "Building No-Code AI Products + MVP Execution",
+      "time": "3 PM – 6 PM IST",
+      "description": [
+        "Build internal tools without writing code using Supabase & AI tools",
+        "Describe business logic in plain language to auto-generate code",
+        "Learn frontend, backend, and database integration with AI",
+        "Deploy a real MVP by the end of the session"
+      ]
+    },
+    {
+      "session": "Custom AI Bots, Smart Decks & The Future of AI Agents",
+      "time": "10 AM – 1:30 PM IST",
+      "description": [
+        "Learn to create fine-tuned AI bots for custom use cases",
+        "Build AI decks using ChatGPT, Claude AI, Perplexity & Gamma",
+        "Conduct business research, create polished presentations",
+        "Understand agentic workflows, future roles for AI generalists"
+      ]
+    },
+    {
+      "session": "AI Automation & Organization-Wide Transformation",
+      "time": "3 PM – 6 PM IST",
+      "description": [
+        "Use Make.com to automate business processes using triggers",
+        "Connect tools with ChatGPT API for seamless workflows",
+        "Build compliance-aware AI adoption strategies for entire orgs",
+        "Create AI councils, use case pipelines, and training plans",
+        "Simulation Activity: 6-month AI implementation plan for your business"
+      ]
+    }
+  ],
+  "guarantee": "100% Satisfaction or Your Money Back",
+  "refundPolicy": "If you go through the program and feel it didn’t provide even a single actionable insight you can apply to your business right away, just email hi@growthschool.io after the event for a full refund.",
+  "certificateInfo": "You will receive a certificate to validate your learnings and show practical, hands-on experience leveraging AI for real-world marketing challenges."
+}

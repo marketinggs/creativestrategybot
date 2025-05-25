@@ -1,0 +1,133 @@
+{
+  "id": "GenAI Mastermind",
+  "title": "AI Mastermind Challenge",
+  "fullDescription": "Detailed description for AI Mastermind Challenge. This 16-hour program helps you unlock AI automation, build custom bots, and master 10+ tools. No coding needed. Learn from top AI experts.",
+  "price": "₹24,999 FREE",
+  "discountDeadline": "Offer Ends Soon",
+  "benefits": [
+    "Unlock AI automation secrets, build custom bots, and master 10+ game-changing tools in 16 hours",
+    "No coding required—perfect for beginners and professionals alike",
+    "Learn from the top 1% in AI with live, expert-led sessions",
+    "Hands-on mastery of cutting-edge AI tools like ChatGPT, MidJourney, and Make.com",
+    "Automated workflows to save you hours every week and boost your productivity",
+    "Custom AI systems: Build GPTs and bots that mirror your style and decision-making",
+    "No-code automation skills to create systems that work for you, even offline",
+    "Certificate of completion to validate your learnings and hands-on application"
+  ],
+  "targetAudience": [
+    "0-2 Years: Early-Career Professionals – Build foundational AI skills and get a head start",
+    "2-7 Years: Mid-Career Professionals – Accelerate your growth by mastering AI-driven workflows",
+    "7-12 Years: Senior Professionals – Build smarter systems and future-proof your business",
+    "12+ Years: Senior Leaders – Leverage AI to optimize processes and empower teams"
+  ],
+  "learningObjectives": [
+    "Understand Generative AI fundamentals, including Neural Networks and LLMs.",
+    "Gain insights into Diffusion Models and their applications.",
+    "Master image and video manipulation using MidJourney and Runway ML.",
+    "Build and fine-tune Custom GPTs and understand agentic workflows.",
+    "Implement AI automations using no-code tools like Make.com."
+  ],
+  "modules": [
+    {
+      "title": "Module 1: Generative AI Fundamentals & Diffusion Models",
+      "content": "Covers neural networks, NLP/LLM correlation, diffusion concepts, model categories, and an introduction to various AI models."
+    },
+    {
+      "title": "Module 2: Image and Video Manipulation",
+      "content": "Deep dive into MidJourney (text-to-image, image-to-image, consistent image generation), Runway ML for video, and AI audio generation."
+    },
+    {
+      "title": "Module 3: Building Custom GPTs and Agentic Workflows",
+      "content": "Focuses on Custom GPT introduction and building, creating AI bots that mimic writing style, fine-tuning, and the future of GenAI with a roadmap to becoming an AI Generalist."
+    },
+    {
+      "title": "Module 4: AI Automations with No-Code",
+      "content": "Introduction to Make.com, setting up trigger actions, connecting multiple apps with AI, integrating ChatGPT API, and building a first AI workflow."
+    }
+  ],
+  "sessions": [
+    {
+      "session": "Generative AI Fundamentals",
+      "time": "12 PM - 2 PM IST",
+      "day": "Day 1",
+      "description": [
+        "What are Neural Networks",
+        "Correlation between NLP and LLM"
+      ]
+    },
+    {
+      "session": "Introduction to Diffusion Models",
+      "time": "3 PM - 4 PM IST",
+      "day": "Day 1",
+      "description": [
+        "Introduction to the concept of diffusion",
+        "The math behind diffusion",
+        "Categories of diffusion models",
+        "Future of diffusion models",
+        "Introduction to different proprietary and open-source AI models"
+      ]
+    },
+    {
+      "session": "Image and Video Manipulation",
+      "time": "4 PM - 7 PM IST",
+      "day": "Day 1",
+      "description": [
+        "Dive into every feature of MidJourney",
+        "Text to image prompting",
+        "Image to image prompting",
+        "Generating consistent images using AI",
+        "Building realistic images",
+        "Introduction to Runway ML",
+        "Text to video prompting",
+        "Audio generation using AI"
+      ]
+    },
+    {
+      "session": "Building Custom GPTs and Agentic Workflows",
+      "time": "11 AM - 2 PM IST",
+      "day": "Day 2",
+      "description": [
+        "Introduction to Custom GPTs",
+        "Build Your First Custom GPT",
+        "Build an AI Bot that writes like you",
+        "Fine-Tuning Custom GPTs",
+        "Future of Generative AI",
+        "Roadmap to becoming an AI Generalist"
+      ]
+    },
+    {
+      "session": "AI Automations with No-Code",
+      "time": "3 PM - 5 PM IST",
+      "day": "Day 2",
+      "description": [
+        "Introduction to Make.com",
+        "Trigger Actions: Automate based on events",
+        "Connect Multiple Apps with AI",
+        "Integrate ChatGPT API for conversational capabilities",
+        "Build Your First AI Workflow"
+      ]
+    }
+  ],
+  "mentors": [
+    "Divij Bajaj (Data Scientist - Microsoft)",
+    "Priyanku Sarmah (Visual Art Director - SamurAI)",
+    "Manish Kumar (Founder)"
+  ],
+  "guarantee": "Join for free—no coding experience needed!",
+  "certificateInfo": "You will receive a certificate of completion to validate your learnings and hands-on experience with cutting-edge AI tools.",
+  "testimonials": [
+    "Diyana: 'This is absolutely insane! No amount of words will express my gratitude for the knowledge shared.'",
+    "Chetan Gandhi: 'The sessions were incredibly enlightening and useful. Looking forward to more learning with this amazing community!'",
+    "Nikhil Ratakonda: 'Massive thanks to the entire team for over-delivering in today’s Gen AI Mastermind session. Insights and value were next-level—truly exceeded expectations.'"
+  ],
+  "faqs": [
+    {
+      "question": "Do I need any coding skills for this challenge?",
+      "answer": "No, this Mastermind Challenge is designed to be accessible to everyone, regardless of coding background. We focus on no-code and low-code AI tools."
+    },
+    {
+      "question": "What are the main outcomes of this Mastermind Challenge?",
+      "answer": "You'll gain hands-on experience with tools like ChatGPT, MidJourney, and Make.com, learn to build custom AI bots and automated workflows, and receive a certificate of completion."
+    }
+  ]
+}

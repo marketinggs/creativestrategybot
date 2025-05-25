@@ -1,0 +1,91 @@
+{
+  "id": "Engineering Mastermind",
+  "title": "2 DAY GEN AI ENGINEERING MASTERMIND",
+  "fullDescription": "Detailed overview of the 2-Day Gen AI Engineering Mastermind. This 12-hour intensive program covers API integration, building Gen AI agents, and more, with hands-on learning from top AI experts.",
+  "price": "FREE ₹10,000",
+  "discountDeadline": "Offer Ends Soon",
+  "benefits": [
+    "Master Gen AI in 12 hours, from API Integration to Building Gen AI Agents",
+    "Boost your engineering skills with hands-on learning",
+    "Learn from the Top 1% in AI"
+  ],
+  "targetAudience": [
+    "Software Professionals",
+    "Software Engineers",
+    "DevOps Engineers",
+    "Backend Developers",
+    "AI & Data Specialists",
+    "Data Scientists",
+    "Machine Learning Engineers",
+    "NLP Specialists",
+    "Tech Leaders (CTOs, Technical Product Managers, Tech Founders)",
+    "Tech Consultants",
+    "Tech Entrepreneurs",
+    "AI Enthusiasts & Learners",
+    "Tech Hobbyists",
+    "Career Transitioners",
+    "Self-Taught Programmers",
+    "Engineering Students"
+  ],
+  "learningObjectives": [
+    "Understand and utilize LLMs and OpenAI APIs effectively.",
+    "Master prompt engineering techniques for various engineering tasks.",
+    "Design and implement agentic AI workflows using frameworks like Crew AI.",
+    "Develop multi-agent AI systems for complex problem-solving.",
+    "Gain practical experience in integrating Gen AI into engineering projects."
+  ],
+  "modules": [
+    {
+      "title": "Module 1: LLMs, OpenAI APIs & Prompt Engineering",
+      "content": "Introduction to Large Language Models, practical usage of OpenAI APIs, and fundamental and advanced prompt engineering strategies tailored for engineers."
+    },
+    {
+      "title": "Module 2: Agentic AI Workflow & Crew AI",
+      "content": "Exploring the concept of agentic AI, designing intelligent workflows, and a hands-on introduction to Crew AI for building autonomous AI agents."
+    },
+    {
+      "title": "Module 3: Multi-Agent AI Systems",
+      "content": "Principles of multi-agent systems, communication and coordination between AI agents, and building complex systems with multiple interacting AI components."
+    }
+  ],
+  "sessions": [
+    {
+      "session": "Introduction to LLMs, OpenAI APIs & Prompt Engineering",
+      "day": "Day 1",
+      "time": "7 PM - 10 PM IST"
+    },
+    {
+      "session": "Agentic AI Workflow & Crew AI",
+      "day": "Day 2",
+      "time": "11 AM - 2 PM IST"
+    },
+    {
+      "session": "Multi-Agent AI Systems",
+      "day": "Day 2",
+      "time": "3 PM - 6 PM IST"
+    }
+  ],
+  "mentors": [
+    "Sidharth (Head of Product, Outskill)",
+    "Sagar Kalbande (Ex AI Researcher, Qualcomm)",
+    "KVS Dileep (Head of AI Initiatives, Outskill)"
+  ],
+  "guarantee": "Join for Free with no risk—massive value guaranteed!",
+  "certificateInfo": "You will receive a certificate of completion to validate your learnings and practical application of GenAI concepts.",
+  "links": [
+    "https://applications.growthschool.io/2021/8273"
+  ],
+  "testimonials": [
+    "Massive thanks to Prashanth, Phani, Manish"
+  ],
+  "faqs": [
+    {
+      "question": "Is this Mastermind suitable for engineers new to Gen AI?",
+      "answer": "Yes, the first day covers fundamentals of LLMs and prompt engineering. However, a basic understanding of software development concepts will be beneficial."
+    },
+    {
+      "question": "What practical skills will I gain?",
+      "answer": "You will learn to integrate OpenAI APIs, build AI agents with Crew AI, and design multi-agent systems, equipping you with practical Gen AI engineering capabilities."
+    }
+  ]
+}

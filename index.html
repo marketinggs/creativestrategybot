@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Creative Strategy Bot</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+      /* Custom scrollbar for better aesthetics */
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #35384D; /* Updated to match new dark theme */
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #686C7A; /* Updated to match new dark theme */
+        border-radius: 10px;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #97A7A6; /* Updated to match new dark theme */
+      }
+
+      /* Define color palette as CSS custom properties */
+      :root {
+        --gs-bottle-green: #002726;
+        --gs-mint: #33C375;
+        --gs-off-white: #FFFAF1;
+        --gs-tide-white: #FFFFFF;
+        --gs-slate: #97A7A6;
+        --gs-lava: #D01A1F;
+        --gs-black-pearl: #0D1A19;
+        --gs-dark-grey-4: #686C7A; /* Card inner content background */
+        --gs-dark-grey-6: #35384D; /* Card background */
+        
+        /* Derived/Auxiliary colors */
+        --gs-mint-darker: #29a360; 
+        --gs-lava-darker: #a81317;
+        --gs-bottle-green-lighter: #003836;
+      }
+
+      body {
+        font-family: 'IBM Plex Sans', sans-serif;
+        background-color: var(--gs-off-white); 
+        color: var(--gs-black-pearl);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: var(--gs-bottle-green);
+          color: var(--gs-off-white);
+        }
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@^2.44.4",
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react": "https://esm.sh/react@^19.1.0",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "@google/genai": "https://esm.sh/@google/genai@^1.0.1",
+    "uuid": "https://esm.sh/uuid@^11.1.0",
+    "openai": "https://esm.sh/openai@^4.103.0",
+    "firebase/": "https://esm.sh/firebase@^11.8.1/"
+  }
+}
+</script>
+</head>
+  <body class="antialiased">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html><link rel="stylesheet" href="index.css">
+<script src="index.tsx" type="module"></script>

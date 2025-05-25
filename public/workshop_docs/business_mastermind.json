@@ -1,0 +1,100 @@
+{
+  "id": "Business Mastermind",
+  "title": "AI Business Mastery Blueprint",
+  "fullDescription": "A comprehensive guide to the AI Business Mastery Blueprint. This 16-hour program empowers you to automate work, build smart assistants, and master over 20 essential AI tools for business growth and innovation.",
+  "price": "₹499 ₹1,999",
+  "discountDeadline": "24 May 2025",
+  "benefits": [
+    "16-Hour Blueprint to Automate Work, Build Smart Assistants & Master 20+ Essential AI Tools",
+    "Unlock growth, efficiency, and innovation across teams",
+    "Learn from the Top 1% in AI"
+  ],
+  "targetAudience": [
+    "Entrepreneurs & Founders",
+    "Senior Managers & Leaders",
+    "Consultants & Specialists",
+    "Tech-Curious Professionals"
+  ],
+  "learningObjectives": [
+    "Understand core Gen AI concepts (LLMs, NLP) and their business applications across HR, marketing, operations, and finance.",
+    "Build no-code AI products and MVPs using tools like Supabase and AI code generation.",
+    "Create custom AI bots and smart presentations using ChatGPT, Claude AI, Perplexity, and Gamma.",
+    "Develop AI automation strategies for business processes using Make.com and ChatGPT API.",
+    "Formulate an AI adoption strategy for an entire organization, including AI councils and training plans."
+  ],
+  "modules": [
+    {
+      "title": "Module 1: Generative AI Foundations & Business Applications",
+      "content": "Covers LLMs, neural networks, AI/ML distinctions, NLP fundamentals, prompt engineering, OpenRouter, and case studies in various business functions."
+    },
+    {
+      "title": "Module 2: Building No-Code AI Products + MVP Execution",
+      "content": "Focuses on building internal tools with Supabase and AI, auto-generating code from business logic, frontend/backend/database integration with AI, and deploying a real MVP."
+    },
+    {
+      "title": "Module 3: Custom AI Bots, Smart Decks & The Future of AI Agents",
+      "content": "Teaches creation of fine-tuned AI bots, building AI-powered presentations with various tools, business research, and understanding agentic workflows."
+    },
+    {
+      "title": "Module 4: AI Automation & Organization-Wide Transformation",
+      "content": "Explores Make.com for process automation, ChatGPT API integration, compliance-aware AI adoption, creating AI councils, use case pipelines, training plans, and a simulation activity for a 6-month AI implementation plan."
+    }
+  ],
+  "sessions": [
+    {
+      "session": "Generative AI Foundations & Business Applications",
+      "time": "10 AM – 1:45 PM IST",
+      "description": [
+        "What is LLM?, Neural networks, AI vs ML, supervised & unsupervised learning",
+        "Fundamentals of NLP, transformers, and correlation with LLMs",
+        "How LLMs work: prompt engineering and OpenRouter capabilities",
+        "Case studies: HR, marketing, operations, and finance",
+        "Stimulate AI outputs using prompts vs traditional coding"
+      ]
+    },
+    {
+      "session": "Building No-Code AI Products + MVP Execution",
+      "time": "3 PM – 6 PM IST",
+      "description": [
+        "Build internal tools without writing code using Supabase & AI tools",
+        "Describe business logic in plain language to auto-generate code",
+        "Learn frontend, backend, and database integration with AI",
+        "Deploy a real MVP by the end of the session"
+      ]
+    },
+    {
+      "session": "Custom AI Bots, Smart Decks & The Future of AI Agents",
+      "time": "10 AM – 1:30 PM IST",
+      "description": [
+        "Learn to create fine-tuned AI bots for custom use cases",
+        "Build AI decks using ChatGPT, Claude AI, Perplexity & Gamma",
+        "Conduct business research, create polished presentations",
+        "Understand agentic workflows, future roles for AI generalists"
+      ]
+    },
+    {
+      "session": "AI Automation & Organization-Wide Transformation",
+      "time": "3 PM – 6 PM IST",
+      "description": [
+        "Use Make.com to automate business processes using triggers",
+        "Connect tools with ChatGPT API for seamless workflows",
+        "Build compliance-aware AI adoption strategies for entire orgs",
+        "Create AI councils, use case pipelines, and training plans",
+        "Simulation Activity: 6-month AI implementation plan for your business"
+      ]
+    }
+  ],
+  "guarantee": "100% Satisfaction or Your Money Back",
+  "refundPolicy": "If you go through the program and feel it didn’t provide even a single actionable insight you can apply to your business right away, just email hi@growthschool.io after the event for a full refund.",
+  "certificateInfo": "You will receive a certificate to validate your learnings and show practical, hands-on experience leveraging AI for real-world marketing challenges.",
+  "faqs": [
+    {
+      "question": "Is this program suitable for non-technical business professionals?",
+      "answer": "Absolutely. The blueprint focuses on no-code/low-code AI tools and strategic applications, making it accessible and valuable for those without a deep technical background."
+    },
+    {
+      "question": "What tangible skills can I expect to develop?",
+      "answer": "You'll learn to automate tasks, build simple AI tools and bots without coding, create AI-driven presentations, and develop a strategic plan for AI integration in your business or team."
+    }
+  ]
+}
